@@ -60,7 +60,7 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="45" alt="AWS" />
   </a>
   <a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/snowflake.svg" width="45" height="45" alt="Snowflake" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGI9oIzBMOrdbzyl1yy-9syIBG7Vqx72F7ww&s" width="45" height="45" alt="Snowflake" />
   </a>
 </p>
 
