@@ -89,6 +89,7 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
 | **[Electric Vehicle Dashboard](https://github.com/Patilarchana123/Electric-Vehicle-Dashboard)** | Visualized EV trends, CAFV eligibility, and market insights | Power BI |
 | **[Amazon Sales Analysis](https://github.com/Patilarchana123/Amazon-Sales-Analysis)** | Sales analysis using AWS S3, Snowflake & Power BI | AWS, Snowflake, Power BI |
 | **[Inventory Demand Forecasting](https://github.com/Patilarchana123/Archana_patil_project)** | Machine learning for inventory forecasting | Python, Pandas, Scikit-learn |
+| **[HR Analytics Dashboard](https://github.com/Patilarchana123/HR-Analytics-Dashboard)** | Interactive HR analytics dashboard with KPIs, attrition analysis, and department insights | Tableau |
 
 ---
 
