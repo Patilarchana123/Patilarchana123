@@ -18,37 +18,66 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
 
 ### **Programming & Data Analysis**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  </a>
 </p>
 
 ### **Data Visualization & BI Tools**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45" alt="Excel" />
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45" alt="Excel" />
+  </a>
 </p>
 
 ### **Cloud & Data Warehousing**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="45" height="45" alt="Snowflake" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+  </a>
+  <a href="https://www.snowflake.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="45" height="45" alt="Snowflake" />
+  </a>
 </p>
 
 ### **Other Tools**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="45" height="45" alt="PowerPoint" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="45" height="45" alt="PowerPoint" />
+  </a>
 </p>
+
 
 ---
 
-## 📌 Featured Projects
+## 📌 Some of My Featured Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **[Electric Vehicle Dashboard](https://github.com/Patilarchana123/Electric-Vehicle-Dashboard)** | Visualized EV trends, CAFV eligibility, and market insights | Power BI |
