@@ -24,6 +24,12 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" alt="R" />
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
   </a>
@@ -43,21 +49,18 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
   <a href="https://www.tableau.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" height="45" alt="Tableau" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
-  </a>
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="45" height="45" alt="Excel" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45" alt="Excel" />
   </a>
 </p>
 
 ### **Cloud & Data Warehousing**
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="45" alt="AWS" />
   </a>
   <a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="45" height="45" alt="Snowflake" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Snowflake_Logo.svg" width="60" height="45" alt="Snowflake" />
   </a>
 </p>
 
@@ -70,9 +73,10 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
   </a>
   <a href="https://www.microsoft.com/en/microsoft-365/powerpoint" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="45" height="45" alt="PowerPoint" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" width="45" height="45" alt="PowerPoint" />
   </a>
 </p>
+
 
 
 ---
