@@ -96,6 +96,12 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
 - **Data Analyst** – UV Technocrats & Solutions, Pune  
 - **EXL Certified Data Analytics Associate** – Edubridge  
 - **Python with AI** – FUEL Institute, Pune  
+- **Accenture North America – Data Analytics and Visualization Job Simulation** – Forage  
+- **BCG – Data Science Job Simulation** – Forage  
+- **HackerRank – Python** (Certified)  
+- **HackerRank – SQL (Advanced)** (Certified)  
+- **Prompt Engineering Applications** – Simplilearn  
+
 
 ---
 
@@ -106,8 +112,18 @@ Proficient in **Excel, SQL, Python, Power BI, and cloud technologies (AWS, Snowf
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archana_Patil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/archana-patil-92837a23a)  
-📧 **Email:** archanampatil2305@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/archana-patil-92837a23a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Patilarchana123" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  </a>
+  <a href="mailto:archanampatil2305@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="45" height="45" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
